@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 秋过冬漫长
-subtitle: 没有比脚更长的路，走过去，前面是个天！
-description: 郑超的个人博客，Charles·Zheng's blog.
-keywords: 技术博客, 前端, JavaScript, Charles
-author: 郑超(Charles·Zheng)
+title: EarthCry
+subtitle: Do the right sth at rigth time.
+description: Phil's blog.
+keywords: Linux, Python
+author: Phil
 language: zh-CN
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://chaoo.oschina.io
+url: http://earthcry.xyz
 root: /
 permalink: :year/:month/:day/:title.html
 permalink_defaults:
@@ -101,12 +101,7 @@ jsonContent:
 
 deploy:
 - type: git
-  repository: https://git.oschina.net/chaoo/chaoo.git
+  repository: https://github.com/earthcry/earthcry.github.io.git
+# repository: https://git.oschina.net/chaoo/chaoo.git
   branch: master
 
-# deploy:
-# - type: git
-#   repo: 
-#     github: https://github.com/chaooo/chaooo.github.io.git,master
-#     oschina: https://git.oschina.net/chaoo/chaoo.git,master
-#     coding: https://git.coding.net/zheng_chao/blog.git,master
