@@ -7,7 +7,7 @@ categories:
 - Sports
 - KungFu
 tags:
--Wushu
+- Wushu
 ---
 dsalkfj;asljf;lsajf;ljksaf
 lsadkjflsajf
